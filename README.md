@@ -58,7 +58,7 @@ De la misma manera se propondrá campañas de decuentos en los traslados, para l
 
 Se realizo un analisis de tipo histograma relacionando la cantidad de servicios (eje X) con la cantidad de pacientes distintos (eje Y) 
 
-![servicios_ips.png](servicios_ips.png)
+![servicios_usuarios_cali.png](servicios_usuarios_cali.png)
 
 Se observa entonces que mas de 9500 pacientes distintos hicieron uso de los servicios entre 1 y 5 veces durante los primeros 8 meses del 2021; por lo tanto serán de nuestro interes los restantes que son alrededor de 500 pacientes distintos.
 
