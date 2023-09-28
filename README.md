@@ -38,4 +38,31 @@ Se obtuvo una base de datos que contiene 66370 registros con 104 atributos (colu
 - EPS                           object
 - IPS                           object
 
-Seguidamente 
+Seguidamente se analizo la cantidad de servicios prestados por ciudad, evidenciando mas de 20 mil servicios prestados en la ciudad de Cali y cerca de 25 mil en la ciduad de Medellin como las ciudades con mas servicios prestados:
+
+![servicios_ciudad.png](servicios_ciudad.png)
+
+Al realizar el analisis por ciudad de la cantidad de distintos pacientes atendidos; se obervo que en Cali se atendieron a mas de 10 mil pacientes:
+
+![usuarios_ciudad.png](usuarios_ciudad.png)
+
+Centrandonse ya en el analisis de la información de los servicios prestados en la ciudad de Cali se busco identificar las EPS e IPS con mayores traslados y atenciones de pacientes:
+
+![servicios_eps.png](servicios_eps.png)
+
+Aunque actualmente Coomeva EPS no existe mas, SOS, Sanitas, Suramericana y Nueva EPS siguen siendo grandes opciones para ofrecer convenios de transportes de sus pacientes afiliados.
+
+![servicios_ips.png](servicios_ips.png)
+
+De la misma manera se propondrá campañas de decuentos en los traslados, para los usuarios particulares, que se dirigan hacia los centros medicos IMBANACO, CLINICA NUESTRA, FUNDACIÓN VALLE DEL LILI, DESA y FARALLONES.
+
+Se realizo un analisis de tipo histograma relacionando la cantidad de servicios (eje X) con la cantidad de pacientes distintos (eje Y) 
+
+![servicios_ips.png](servicios_ips.png)
+
+Se observa entonces que mas de 9500 pacientes distintos hicieron uso de los servicios entre 1 y 5 veces durante los primeros 8 meses del 2021; por lo tanto serán de nuestro interes los restantes que son alrededor de 500 pacientes distintos.
+
+A estos últimos se realizo un analisis de frecuencia de servicios mensaules y se seleccionaron 421 posibles usuarios que hicieron uso de los servicios en al menos 3 veces durante 1 mes; seguidamente se realizo un trabajo de limpieza de datos de contacto; obtenido una base de 941 con números de celular y números de telefono fijos.
+
+Esta base será un insumo inicial para Movired Soluciones Logisticas con la cúal se espera aumentar el número de usuarios que hacen uso del servicio de transporte especializado que se oferta.
+
